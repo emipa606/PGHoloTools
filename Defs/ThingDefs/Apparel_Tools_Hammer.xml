@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="I_PGTool_Base">
+    <defName>I_PGTool_Hammer</defName>
+    <label>Holo-Hammer</label>
+    <description>Simple holographic building tool, helpful for speeding up construction. Equipped in the belt slot.</description>
+    <techLevel>Spacer</techLevel>
+    <graphicData>
+      <texPath>Things/Item/Hammer</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1200</WorkToMake>
+      <MaxHitPoints>120</MaxHitPoints>
+    </statBases>
+    <equippedStatOffsets>
+      <ConstructionSpeed>0.07</ConstructionSpeed>
+      <SmoothingSpeed>0.12</SmoothingSpeed>
+      <ConstructSuccessChance>0.03</ConstructSuccessChance>
+    </equippedStatOffsets>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <apparel>
+      <careIfWornByCorpse>false</careIfWornByCorpse>
+      <bodyPartGroups>
+        <li>Waist</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Belt</li>
+      </layers>
+      <tags>
+        <li>Spacer</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+</Defs>

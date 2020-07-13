@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="I_PGTool_Base">
+    <defName>I_PGTool_Cutlery</defName>
+    <label>Holo-Cutlery</label>
+    <description>Your very own set of holographic eating utensils, makes eating easy AND fun!. Equipped in the belt slot.</description>
+    <techLevel>Spacer</techLevel>
+    <graphicData>
+      <texPath>Things/Item/Cutlery</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1200</WorkToMake>
+      <MaxHitPoints>120</MaxHitPoints>
+    </statBases>
+    <equippedStatOffsets>
+      <EatingSpeed>0.17</EatingSpeed>
+    </equippedStatOffsets>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <apparel>
+      <careIfWornByCorpse>false</careIfWornByCorpse>
+      <bodyPartGroups>
+        <li>Waist</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Belt</li>
+      </layers>
+      <tags>
+        <li>Spacer</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+</Defs>

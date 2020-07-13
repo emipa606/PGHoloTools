@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="I_PGTool_Base">
+    <defName>I_PGTool_ScrewD</defName>
+    <label>Holo-Screwdriver</label>
+    <description>Simple holographic screwdriver, great for small fiddly tasks such as picking mechanoids to pieces. Equipped in the belt slot.</description>
+    <techLevel>Spacer</techLevel>
+    <graphicData>
+      <texPath>Things/Item/ScrewD</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1200</WorkToMake>
+      <MaxHitPoints>120</MaxHitPoints>
+    </statBases>
+    <equippedStatOffsets>
+      <ButcheryMechanoidSpeed>0.12</ButcheryMechanoidSpeed>
+      <ButcheryMechanoidEfficiency>0.07</ButcheryMechanoidEfficiency>
+      <SmithingSpeed>0.07</SmithingSpeed>
+    </equippedStatOffsets>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <apparel>
+      <careIfWornByCorpse>false</careIfWornByCorpse>
+      <bodyPartGroups>
+        <li>Waist</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Belt</li>
+      </layers>
+      <tags>
+        <li>Spacer</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+</Defs>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ApparelBase" Name="I_PGTool_Base" Abstract="True">
+    <recipeMaker>
+      <workSpeedStat>SculptingSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Sculpt</effectWorking>
+      <soundWorking>Recipe_Sculpt</soundWorking>
+      <unfinishedThingDef>UnfinishedSculpture</unfinishedThingDef>
+      <recipeUsers>
+        <li>TableMachining</li>
+      </recipeUsers>
+      <researchPrerequisite>PG_Holotools</researchPrerequisite>
+    </recipeMaker>
+    <costList>
+      <Silver>10</Silver>
+    </costList>
+    <statBases>
+      <Mass>0.01</Mass>
+      <Flammability>0</Flammability>
+      <Beauty>1</Beauty>
+      <Cleanliness>2</Cleanliness>
+      <EquipDelay>0.8</EquipDelay>
+    </statBases>
+    <colorGenerator Class="ColorGenerator_Options">
+      <options>
+        <li>
+          <weight>10</weight>
+          <only>RGBA(0.02,1,0.94,1)</only>
+        </li>
+        <li>
+          <weight>10</weight>
+          <only>RGBA(0,1,0.56,1)</only>
+        </li>
+        <li>
+          <weight>10</weight>
+          <only>RGBA(0,1,0.06,1)</only>
+        </li>
+      </options>
+    </colorGenerator>
+  </ThingDef>
+</Defs>

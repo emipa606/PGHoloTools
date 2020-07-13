@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="I_PGTool_Base">
+    <defName>I_PGTool_Tongs</defName>
+    <label>Holo-Tongs</label>
+    <description>A pair of holographic tongs, useful for picking up hot metal. Equipped in the belt slot.</description>
+    <techLevel>Spacer</techLevel>
+    <graphicData>
+      <texPath>Things/Item/Tongs</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1200</WorkToMake>
+      <MaxHitPoints>120</MaxHitPoints>
+    </statBases>
+    <equippedStatOffsets>
+      <SmithingSpeed>0.09</SmithingSpeed>
+      <SmeltingSpeed>0.12</SmeltingSpeed>
+    </equippedStatOffsets>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <apparel>
+      <careIfWornByCorpse>false</careIfWornByCorpse>
+      <bodyPartGroups>
+        <li>Waist</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Belt</li>
+      </layers>
+      <tags>
+        <li>Spacer</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+</Defs>
