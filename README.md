@@ -1,26 +1,17 @@
 # PGHoloTools
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Moshs mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1375545225
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/PGHoloTools]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
-Wonder why you&apos;re still bothering with all these rustic tools? Metals, wood, stone and all that kind of thinig? Optional (holographic) items for the belt equip slot for those just not suited to battle.
+Wonder why you're still bothering with all these rustic tools? Metals, wood, stone and all that kind of thinig? Optional (holographic) items for the belt equip slot for those just not suited to battle.
 
 A set of craftable tools for your colonists to use, they are equipped in the belt slots (because where else would you carry all your stuff??) Offering small bonuses to various skills for those colonists who have no need nor want for shield belts.
 
@@ -32,7 +23,7 @@ If you like this then check out the other mods in the PanGalactic pack for more 
 https://steamcommunity.com/sharedfiles/filedetails/?id=1373760747
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -42,6 +33,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1373760747
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
