@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1910895210
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 261052b1d5a1f37e74782605e0ffd448
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 261052b1d5a1f37e74782605e0ffd448
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.PGHoloTools/Textures/Things/Item/Cutlery.png
+- Assets/Data/Mlie.PGHoloTools/Textures/Things/Item/Trowel.png
+- Assets/Data/Mlie.PGHoloTools/Textures/Things/Item/Pick.png
+- Assets/Data/Mlie.PGHoloTools/Textures/Things/Item/Chisel.png
+- Assets/Data/Mlie.PGHoloTools/Textures/Things/Item/Cleaver.png
+- Assets/Data/Mlie.PGHoloTools/Textures/Things/Item/Quill.png
+- Assets/Data/Mlie.PGHoloTools/Textures/Things/Item/Tongs.png
+- Assets/Data/Mlie.PGHoloTools/Textures/Things/Item/Weight.png
+- Assets/Data/Mlie.PGHoloTools/Textures/Things/Item/Hammer.png
+- Assets/Data/Mlie.PGHoloTools/Textures/Things/Item/Suture.png
+- Assets/Data/Mlie.PGHoloTools/Textures/Things/Item/Ladle.png
+- Assets/Data/Mlie.PGHoloTools/Textures/Things/Item/Needle.png
+- Assets/Data/Mlie.PGHoloTools/Textures/Things/Item/Seal.png
+- Assets/Data/Mlie.PGHoloTools/Textures/Things/Item/ScrewD.png
+Dependencies: []

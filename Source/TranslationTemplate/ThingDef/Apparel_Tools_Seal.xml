@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  <!-- EN: Holographic Colony Seal -->
   <I_EMTool_Seal.label>Holographic Colony Seal</I_EMTool_Seal.label>
+  <!-- EN: A small holographic emblem representing the colony, shows others you have a role as ambassador. Equipped in the belt slot. -->
   <I_EMTool_Seal.description>A small holographic emblem representing the colony, shows others you have a role as ambassador. Equipped in the belt slot.</I_EMTool_Seal.description>
 </LanguageData>

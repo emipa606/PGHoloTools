@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  <!-- EN: Holo-Pen -->
   <I_PGTool_Quill.label>Holo-Pen</I_PGTool_Quill.label>
+  <!-- EN: Simple holographic pen used for drawing and writing, useful when researching topics. Equipped in the belt slot. -->
   <I_PGTool_Quill.description>Simple holographic pen used for drawing and writing, useful when researching topics. Equipped in the belt slot.</I_PGTool_Quill.description>
 </LanguageData>

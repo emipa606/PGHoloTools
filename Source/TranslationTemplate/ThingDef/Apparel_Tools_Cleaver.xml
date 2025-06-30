@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  <!-- EN: Holo-Cleaver -->
   <I_PGTool_Cleaver.label>Holo-Cleaver</I_PGTool_Cleaver.label>
+  <!-- EN: Small holographic cleaving knife, almost entirely ineffective as a weapon but is very useful when butchering animals. Equipped in the belt slot. -->
   <I_PGTool_Cleaver.description>Small holographic cleaving knife, almost entirely ineffective as a weapon but is very useful when butchering animals. Equipped in the belt slot.</I_PGTool_Cleaver.description>
 </LanguageData>

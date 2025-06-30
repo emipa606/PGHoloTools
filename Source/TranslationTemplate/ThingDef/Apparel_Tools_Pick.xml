@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  <!-- EN: Holo-Pick -->
   <I_PGTool_Pick.label>Holo-Pick</I_PGTool_Pick.label>
+  <!-- EN: Just a simple holographic pick, useful for mining. Equipped in the belt slot. -->
   <I_PGTool_Pick.description>Just a simple holographic pick, useful for mining. Equipped in the belt slot.</I_PGTool_Pick.description>
 </LanguageData>
